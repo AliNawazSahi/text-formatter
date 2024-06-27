@@ -8,8 +8,9 @@ Choose Your formate
 
 With HTML formate
 
-![screencapture-localhost-text-formatter-2024-06-27-22_43_44](https://github.com/AliNawazSahi/text-formatter/assets/125664781/96c17c01-f024-4a71-af3d-ee3f31f76824)
+![screencapture-alinawazsahi-github-io-text-formatter-2024-06-27-22_54_35](https://github.com/AliNawazSahi/text-formatter/assets/125664781/652cd3f2-054e-4822-8600-d8d2b7b27fae)
+
 
 Without HTML format
 
-![screencapture-localhost-text-formatter-2024-06-27-22_39_44](https://github.com/AliNawazSahi/text-formatter/assets/125664781/b61fbf0a-d625-43a1-872c-e4f3c9828265)
+![screencapture-alinawazsahi-github-io-text-formatter-2024-06-27-22_53_44](https://github.com/AliNawazSahi/text-formatter/assets/125664781/8f765869-71fb-477c-9312-e81bfd6e93b1)
